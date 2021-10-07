@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/reactmiclone/static/css/main.85e1d018.chunk.css",
+    "main.js": "/reactmiclone/static/js/main.d46a11b2.chunk.js",
+    "main.js.map": "/reactmiclone/static/js/main.d46a11b2.chunk.js.map",
+    "runtime-main.js": "/reactmiclone/static/js/runtime-main.6fca17e3.js",
+    "runtime-main.js.map": "/reactmiclone/static/js/runtime-main.6fca17e3.js.map",
+    "static/css/2.081f420c.chunk.css": "/reactmiclone/static/css/2.081f420c.chunk.css",
+    "static/js/2.f5bca189.chunk.js": "/reactmiclone/static/js/2.f5bca189.chunk.js",
+    "static/js/2.f5bca189.chunk.js.map": "/reactmiclone/static/js/2.f5bca189.chunk.js.map",
+    "index.html": "/reactmiclone/index.html",
+    "static/css/2.081f420c.chunk.css.map": "/reactmiclone/static/css/2.081f420c.chunk.css.map",
+    "static/css/main.85e1d018.chunk.css.map": "/reactmiclone/static/css/main.85e1d018.chunk.css.map",
+    "static/js/2.f5bca189.chunk.js.LICENSE.txt": "/reactmiclone/static/js/2.f5bca189.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6fca17e3.js",
+    "static/css/2.081f420c.chunk.css",
+    "static/js/2.f5bca189.chunk.js",
+    "static/css/main.85e1d018.chunk.css",
+    "static/js/main.d46a11b2.chunk.js"
+  ]
+}
